@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persona id="0">
+    <nombre>Fiódor</nombre>
+    <apellido>Dostoyevski</apellido>
+    <nacimiento>1821-12-11T00:00:00+01:00</nacimiento>
+    <libros>
+        <libro id="0">
+            <titulo>Los Hermanos Karamazov</titulo>
+            <precio>12.99</precio>
+            <editorial id="0" nombre="Planeta">
+                <direccion tipoVia="Calle" nombreVia="Petróleo" ciudad="Alcorcón"/>
+            </editorial>
+        </libro>
+        <libro id="0">
+            <titulo>Crimen y Castigo</titulo>
+            <precio>25.99</precio>
+            <editorial id="0" nombre="Planeta">
+                <direccion tipoVia="Calle" nombreVia="Petróleo" ciudad="Alcorcón"/>
+            </editorial>
+        </libro>
+    </libros>
+</persona>
